@@ -1,0 +1,30 @@
+let menu = [
+    {
+        title:'one',
+        template:'template/one.html'
+    },
+    {
+        title:'two',
+        template:'template/two.html'
+    },
+    {
+        title:'three',
+        template:'template/three.html'
+    },
+    {
+        title:'four',
+        template:'template/four.html'
+    },
+    {
+        title:'环境光',
+        template:'template/AmbientLight.html'
+    },
+    {
+        title:'点光源',
+        template:'template/PointLight.html'
+    },
+    {
+        title:'聚光灯',
+        template:'template/SpotLight.html'
+    }
+];
